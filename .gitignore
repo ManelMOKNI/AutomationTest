@@ -1,0 +1,5 @@
+target/
+pom.xml
+allure-results/
+.idea/
+fms_automation_framwork.iml
